@@ -10,7 +10,7 @@ I'm a Full Stack Developer passionate about building scalable and maintainable a
 
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joseyzambranovpe@gmail.com) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joseyzambranov) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
