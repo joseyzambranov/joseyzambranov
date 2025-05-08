@@ -13,8 +13,6 @@ I'm a Full Stack Developer passionate about building scalable and maintainable a
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseyzambranov&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joseyzambranov&show_icons=true&theme=radical)
-
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/joseyzambranov) 
 
