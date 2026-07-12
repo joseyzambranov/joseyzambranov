@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Full Stack Developer passionate about building scalable and maintainable applications using Node.js, TypeScript, Angular, and React.<br>I apply Hexagonal Architecture and Microservices principles to design clean, decoupled systems that are easy to evolve and test.<br><br>I work with AWS to deploy cloud-native solutions, leveraging best practices in CI/CD, serverless, and infrastructure as code.<br><br>🔍 Always focused on writing clean code, solving real-world problems, and learning new technologies.
+Backend Developer with experience in modernizing enterprise applications and financial systems. Experienced in migrating monolithic architectures to microservices, optimizing performance and scalability. Focused on reducing response times, improving system stability, and implementing scalable solutions with direct business impact.
 
 
 ## 🌐 Socials:
